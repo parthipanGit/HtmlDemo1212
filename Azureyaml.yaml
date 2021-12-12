@@ -1,5 +1,5 @@
 version: v0.1
 testName: AzureSampleProject
 testPlan: AzureSampleProject.jmx
-description: 'AzureSampleProject'
+description: 'AzureSampleHtmlProject'
 engineInstances: 1
